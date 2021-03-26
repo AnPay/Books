@@ -1,0 +1,97 @@
+Tech Talk and study resources
+This week starts with the essentials - Algorithms & Data Structures: Part 1!!
+
+Full code from the presented problems:
+--- Merge sorted arrays: goo.gle/GTE1-MergeSortedArrays
+--- Math expression evaluation: goo.gle/GTE1-MathExpEval
+
+Additional reading on the topic:
+--- Python data classes: goo.gle/GTE1-PythonData
+--- Heap: goo.gle/GTE1-Heap
+--- Algorithms, Part I @ Coursera: goo.gle/GTE1-AlgorithmsP1
+--- Problem Solving with Algorithms and Data Structures using Python: goo.gle/GTE1-ProblemSolving
+
+Questions?
+Technical discussions - post on the “Stream” page.
+General program-related questions - reach us at techelevate-apac@google.com.
+Coding assignment
+Based on the problems presented in the Google Meet session, please practice working on your coding assignment (choose from Python, C++, or Java) here → https://class.mimir.io/courses/be3e8701-e348-49eb-a841-d9ac54a50862
+
+We have two problems for you to solve this week:
+--- Check if Google search query is a mathematical expression and evaluate it. Extend to support a) floats; b) power operation (^); c) functions such as sin, cos etc.
+--- Implement the combined log sorted by timestamp to quickly see a problem without opening each log individually.
+
+Note: The test cases for the challenges are intentionally hidden, you can see only whether your code passes them. Feel free to play and try different approaches as many times as you like.
+
+Please pick the language of your choice from Python, C++ or Java, do the assignment and click “Submit” in the Mimir Classroom by Wednesday March 10, 2021.
+
+
+Tech Talk and study resources
+Additional reading on the topics and resources:
+-- Problem Solving with Algorithms and Data Structures using Python: goo.gle/GTE1-ProblemSolving
+-- Algorithms, Part I @ Coursera: goo.gle/GTE1-AlgorithmsP1
+
+Pulse-check
+Please fill out this quick anonymous feedback form on the session and homework for week 1, so we know what is working well and how we can improve for the future: http://goo.gle/30bZMeI
+Questions?
+-- Technical discussions are posted on the “Stream” page.
+-- General program-related questions - reach us at techelevate-apac@google.com.
+Coding assignment
+Hands-on exercise:
+We have three problems for you to practice this week here.
+
+1) Update the get_candidate() to perform depth-first traversal with different orderings: Preorder, Inorder and Postorder. As a challenge, make this algorithm to work with one typo (defined as one incorrect character).
+
+2) Test the limits of the solution in terms of number of airports/flights and think about what can be improved.
+
+3) Estimate the algorithm’s complexity and memory required. As a challenge to extend the solution to support N typos in the query.
+
+
+
+Tech Talk and study resources
+
+Additional reading on the topics and resources:
+-- Learn about testing DRY and DAMP principles: goo.gle/GTE3-TestingBlog
+-- Single Responsibility Principle: goo.gle/GTE3-SingleResponsibilityPrinciple
+-- Google style guides: goo.gle/GTE3-GoogleStyleGuides
+-- Books:
+-- Clean Code: goo.gle/GTE3-CleanCode
+-- Growing Object-Oriented Software, Guided by Tests: goo.gle/GTE3-GrowingSoftware
+-- Effective Java: goo.gle/GTE3-EffectiveJava
+-- Effective Go: goo.gle/GTE3-EffectiveGo
+-- Effective Python: goo.gle/GTE3-EffectivePython
+
+Questions?
+Technical discussions are posted on the “Stream” page.
+General program-related questions - reach us at techelevate-apac@google.com.
+
+Pulse-check
+Please fill out this quick feedback form on the session and homework from last week, so we know what is working well and how we can improve for the future: http://goo.gle/30bZMeI
+Coding assignment
+We have three problems for you to practice this week on Mimir:
+https://class.mimir.io/courses/be3e8701-e348-49eb-a841-d9ac54a50862
+
+-- Fixing code to find the second largest element ignoring duplicates.
+-- Fixing code to evaluate mathematical expression.
+-- Fixing code to check array order.
+
+Note:
+-- We’re mixing this up - this week you’ll have the opportunity to work with written code! The starter code doesn’t pass test cases and needs debugging, so you’ll need to apply code health principles to improve it. Just like in day-to-day coding work, you'll be required to improve the codebase to cover all test cases. Out of the box the code covers only the basic use case. Your task is to improve (or maybe rewrite) it to be production ready.
+-- Code health is a very broad topic and we are aware that automatic tests won't cover everything. Mimir Classroom will provide you with information regarding whether your fixes cover all the corner cases.
+
+Please pick the language of your choice from Python, C++ or Java, do the assignment and click “Submit” in the Mimir Classroom by March 24, 2021.
+
+
+Study resources
+Additional reading on the topics and resources:
+Chapter 12: - Introducing Non-Abstract Large System Design: goo.gle/GTE4-Chapter12
+Book: Building Secure and Reliable Systems: https://static.googleusercontent.com/media/sre.google/en//static/pdf/building_secure_and_reliable_systems.pdf
+Wikipedia - Ultra Large Scale Systems: goo.gle/GTE4-LargeScaleSystems
+Five Considerations for Large Scale Systems: goo.gle/GTE4-FiveConsiderationsLargeScaleSystems
+
+Pulse-check
+Please fill out this quick feedback form http://goo.gle/30bZMeI on the session and homework from last week, so we know what is working well and how we can improve for the future:
+
+Questions?
+Technical discussions are posted on the “Stream” page.
+General program-related questions - reach us at techelevate-apac@google.com.
